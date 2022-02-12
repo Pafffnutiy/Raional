@@ -1,0 +1,3 @@
+﻿  Rational.cpp
+D:\ПАША\C++ projects\Rational\Rational\Rational.cpp(109,30): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+  Rational.vcxproj -> D:\ПАША\C++ projects\Rational\Debug\Rational.exe
